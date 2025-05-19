@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Kufre Umana aka KingBifoe
 
 <!--
 **kingbifoe/KingBifoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
