@@ -2,7 +2,7 @@
 
 Highly skilled and tech-savvy IT professional with a robust foundation in system administration, technical support, and software development, complemented by a passion for innovation and continuous improvement. Proficient in managing hospital IT infrastructures, troubleshooting complex systems, and ensuring seamless integration of software solutions to support critical healthcare operations.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/Flykingdabreew))
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/Flykingdabreew)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kufre-umana-742b5b46/)
 
 ## ⚡Tech Stack
