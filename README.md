@@ -1,4 +1,4 @@
-## Hi there 👋 This is Kufre Umana aka KingBifoe
+## Hi there 👋 This is Kufre Umana
 
 ## Tech Support | Software Engineer
 
@@ -16,7 +16,7 @@ Highly skilled and tech-savvy IT professional with a robust foundation in system
 - 🌍  I'm based in Abuja, Nigeria
 - 🔭 I’m currently working on a Django project
 - 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking to collaborate on Web Development Relatede projects.
+- 👯 I’m looking to collaborate on Web Development Related projects.
 - 💬 Ask me about anything tech related, Happy to help as a Good Tech Support.
 - 📫 How to reach me: kingbifoe@gmail.com
 - 😄 Pronouns: He/Him
